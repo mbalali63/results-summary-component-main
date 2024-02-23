@@ -3,9 +3,8 @@
 @tailwind utilities;
 
 
-@font-face {
-    font-family: 'Hanken Grotesk';
-    src: url('.\..\assets\fibts\HankenGrotesk-VariableFont_wght.ttf');
+
+.largeScreen{
+    height: 1008px;
+    background-color: red;
 }
-
-

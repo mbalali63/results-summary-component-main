@@ -2,9 +2,7 @@ Hanken Grotesk Variable Font
 ============================
 
 This download contains Hanken Grotesk as both variable fonts and static fonts.
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 Hanken Grotesk is a variable font with this axis:
   wght
 
