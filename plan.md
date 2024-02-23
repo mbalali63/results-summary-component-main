@@ -5,5 +5,5 @@
 - [x] make responsive
 - [x] style the colors
 - [x] style the fonts
-- [ ] Semantic element and ARIA 
+- [x] Semantic element and ARIA 
 - [ ] finalize
