@@ -7,3 +7,7 @@
 - [x] style the fonts
 - [x] Semantic element and ARIA 
 - [ ] finalize
+  - [ ] Report
+  - [ ] push repo
+  - [ ] URL
+  - [ ] register to frontend mentor
