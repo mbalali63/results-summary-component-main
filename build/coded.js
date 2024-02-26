@@ -1,5 +1,5 @@
 console.log('Hi')
-const userDataFromFile = require('./../data.json');
+const userDataFromFile = require('./data.json');
 
 
 for (let i=0;i<4;i++){
